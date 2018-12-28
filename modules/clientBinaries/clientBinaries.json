@@ -3,6 +3,71 @@
     "subid": {
       "version": "1.0.0.2",
       "platforms": {
+        "linux": {
+          "x64": {
+            "download": {
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/v1.0.0.2b/subi-1.0.0.2-b-x86_64-linux-gnu.tar.gz",
+              "type": "tar",
+              "sha256": "",
+              "bin": "subid"
+            },
+            "bin": "subid",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Subi Core Daemon",
+                  "1.0.0.2"
+                ]
+              }
+            }
+          }
+        },
+        "mac": {
+          "x64": {
+            "download": {
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/v1.0.0.2b/subi-1.0.0.2-b-osx64.tar.gz",
+              "type": "tar",
+              "sha256": "",
+              "bin": "subid"
+            },
+            "bin": "subid",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Subi Core Daemon",
+                  "1.0.0.2"
+                ]
+              }
+            }
+          }
+        },
+        "win": {
+          "ia32": {
+            "download": {
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.2b/subi-1.0.0.2-b-win32.zip",
+              "type": "zip",
+              "sha256": "",
+              "bin": "subid.exe"
+            },
+            "bin": "subid.exe",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "Subi Core Daemon",
+                  "1.0.0.2"
+                ]
+              }
+            }
+          },
           "x64": {
             "download": {
               "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.2b/subi-1.0.0.2-b-win64.zip",

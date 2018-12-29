@@ -50,7 +50,7 @@
         "win": {
           "ia32": {
             "download": {
-              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.2b/subi-1.0.0.2-b-win32.zip",
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.2b/subid-1.0.0.2-b-win32.zip",
               "type": "zip",
               "sha256": "",
               "bin": "subid.exe"
@@ -70,7 +70,7 @@
           },
           "x64": {
             "download": {
-              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.2b/subi-1.0.0.2-b-win64.zip",
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.2b/subid-1.0.0.2-b-win64.zip",
               "type": "zip",
               "sha256": "",
               "bin": "subid.exe"

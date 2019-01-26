@@ -53,7 +53,7 @@
               "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.7/subid-1.0.0.7-win32.zip",
               "type": "zip",
               "sha256": "",
-              "bin": "subid-1.0.0.7-b/bin/subid.exe"
+              "bin": "subid-1.0.0.7/bin/subid.exe"
             },
             "bin": "subid.exe",
             "commands": {
@@ -73,7 +73,7 @@
               "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.7/subid-1.0.0.7-win64.zip",
               "type": "zip",
               "sha256": "",
-              "bin": "subid-1.0.0.7-b/bin/subid.exe"
+              "bin": "subid-1.0.0.7/bin/subid.exe"
             },
             "bin": "subid.exe",
             "commands": {

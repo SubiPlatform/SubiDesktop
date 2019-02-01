@@ -1,12 +1,12 @@
 {
   "clients": {
     "subid": {
-      "version": "1.0.0.8",
+      "version": "1.0.0.9",
       "platforms": {
         "linux": {
           "x64": {
             "download": {
-              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/v1.0.0.8/subi-1.0.0.8-x86_64-linux-gnu.tar.gz",
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/v1.0.0.9/subi-1.0.0.9-x86_64-linux-gnu.tar.gz",
               "type": "tar",
               "sha256": "",
               "bin": "subid"
@@ -19,7 +19,7 @@
                 ],
                 "output": [
                   "Subi Core Daemon",
-                  "1.0.0.8"
+                  "1.0.0.9"
                 ]
               }
             }
@@ -28,7 +28,7 @@
         "mac": {
           "x64": {
             "download": {
-              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/v1.0.0.8/subi-1.0.0.8-osx64.tar.gz",
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/v1.0.0.9/subi-1.0.0.9-osx64.tar.gz",
               "type": "tar",
               "sha256": "",
               "bin": "subid"
@@ -41,7 +41,7 @@
                 ],
                 "output": [
                   "Subi Core Daemon",
-                  "1.0.0.8"
+                  "1.0.0.9"
                 ]
               }
             }
@@ -50,10 +50,10 @@
         "win": {
           "ia32": {
             "download": {
-              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.8/subid-1.0.0.8-win32.zip",
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.9/subid-1.0.0.9-win32.zip",
               "type": "zip",
               "sha256": "",
-              "bin": "subid-1.0.0.8/bin/subid.exe"
+              "bin": "subid-1.0.0.9/bin/subid.exe"
             },
             "bin": "subid.exe",
             "commands": {
@@ -63,17 +63,17 @@
                 ],
                 "output": [
                   "Subi Core Daemon",
-                  "1.0.0.8"
+                  "1.0.0.9"
                 ]
               }
             }
           },
           "x64": {
             "download": {
-              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.8/subid-1.0.0.8-win64.zip",
+              "url": "https://github.com/SubiPlatform/SubiCore/releases/download/1.0.0.9/subid-1.0.0.9-win64.zip",
               "type": "zip",
               "sha256": "",
-              "bin": "subid-1.0.0.8/bin/subid.exe"
+              "bin": "subid-1.0.0.9/bin/subid.exe"
             },
             "bin": "subid.exe",
             "commands": {
@@ -83,7 +83,7 @@
                 ],
                 "output": [
                   "Subi Core Daemon",
-                  "1.0.0.8"
+                  "1.0.0.9"
                 ]
               }
             }
